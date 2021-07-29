@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * Studying back-end and front-end
 
 ### Currently learning about:
-*HTML
-*CSS
-*PHP
-*PYTHON
+* HTML
+* CSS
+* PHP
+* PYTHON
